@@ -1,0 +1,23 @@
+git commit
+- captures a snapshot of the project's current stage and saves it
+
+git branch
+- a separate workspace where you can make changes without affecting the main project
+
+git checkout
+- lets you navigate between the different branches created
+
+git pull
+- fetches and downloads content from a remote repository and updates the local repository
+
+git push
+- uploads local repository stuff to a remote repository
+
+git merge
+- putting a forked history back together again
+
+git rebase
+- combines changes from one branch into another by moving commits to the front of the target branch
+
+git fetch
+- downloads commits, files and refs from a remote repository into a local repository
